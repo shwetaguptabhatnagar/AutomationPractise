@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-08T13:06:13Z" name="FREE CRM Application Test Automation Test Suite" finished-at="2021-09-08T13:06:52Z" duration-ms="38629">
+    <groups>
+    </groups>
+    <test started-at="2021-09-08T13:06:13Z" name="Chrome Test" finished-at="2021-09-08T13:06:46Z" duration-ms="32455">
+      <class name="com.crm.qa.testcases.FreshWorksTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@4f638935]" started-at="2021-09-08T18:36:13Z" name="setup" finished-at="2021-09-08T18:36:20Z" duration-ms="6456" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="freshWorksTitleTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@4f638935]" started-at="2021-09-08T18:36:20Z" name="freshWorksTitleTest" finished-at="2021-09-08T18:36:20Z" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freshWorksTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@4f638935]" started-at="2021-09-08T18:36:20Z" name="tearDown" finished-at="2021-09-08T18:36:20Z" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@4f638935]" started-at="2021-09-08T18:36:20Z" name="setup" finished-at="2021-09-08T18:36:25Z" duration-ms="5388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getFooterLinksTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@4f638935]" started-at="2021-09-08T18:36:25Z" name="getFooterLinksTest" finished-at="2021-09-08T18:36:45Z" duration-ms="20221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFooterLinksTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@4f638935]" started-at="2021-09-08T18:36:45Z" name="tearDown" finished-at="2021-09-08T18:36:46Z" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.FreshWorksTest -->
+    </test> <!-- Chrome Test -->
+    <test started-at="2021-09-08T13:06:13Z" name="Firefox Test" finished-at="2021-09-08T13:06:52Z" duration-ms="38629">
+      <class name="com.crm.qa.testcases.FreshWorksTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@60704c]" started-at="2021-09-08T18:36:13Z" name="setup" finished-at="2021-09-08T18:36:21Z" duration-ms="8000" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="freshWorksTitleTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@60704c]" started-at="2021-09-08T18:36:21Z" name="freshWorksTitleTest" finished-at="2021-09-08T18:36:21Z" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freshWorksTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@60704c]" started-at="2021-09-08T18:36:21Z" name="tearDown" finished-at="2021-09-08T18:36:22Z" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@60704c]" started-at="2021-09-08T18:36:22Z" name="setup" finished-at="2021-09-08T18:36:31Z" duration-ms="8674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="getFooterLinksTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@60704c]" started-at="2021-09-08T18:36:31Z" name="getFooterLinksTest" finished-at="2021-09-08T18:36:51Z" duration-ms="20123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFooterLinksTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@60704c]" started-at="2021-09-08T18:36:51Z" name="tearDown" finished-at="2021-09-08T18:36:52Z" duration-ms="715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.FreshWorksTest -->
+    </test> <!-- Firefox Test -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
