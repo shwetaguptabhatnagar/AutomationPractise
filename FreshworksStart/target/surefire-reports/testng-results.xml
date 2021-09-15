@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="4" passed="0" failed="0" skipped="4">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-10T11:43:58Z" name="FREE CRM Application Test Automation Test Suite" finished-at="2021-09-10T11:44:19Z" duration-ms="21441">
+  <suite started-at="2021-09-15T06:15:37Z" name="FREE CRM Application Test Automation Test Suite" finished-at="2021-09-15T06:15:59Z" duration-ms="21499">
     <groups>
     </groups>
-    <test started-at="2021-09-10T11:43:58Z" name="Firefox Test" finished-at="2021-09-10T11:44:19Z" duration-ms="21441">
+    <test started-at="2021-09-15T06:15:37Z" name="Firefox Test" finished-at="2021-09-15T06:15:59Z" duration-ms="21474">
       <class name="com.crm.qa.testcases.FreshWorksTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@762ef0ea]" started-at="2021-09-10T17:13:58Z" name="setup" finished-at="2021-09-10T17:14:19Z" duration-ms="21404" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5c671d7f]" started-at="2021-09-15T11:45:37Z" name="setup" finished-at="2021-09-15T11:45:59Z" duration-ms="21456" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -47,7 +47,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="freshWorksTitleTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@762ef0ea]" started-at="2021-09-10T17:14:19Z" name="freshWorksTitleTest" finished-at="2021-09-10T17:14:19Z" duration-ms="0" status="SKIP">
+        <test-method signature="freshWorksTitleTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5c671d7f]" started-at="2021-09-15T11:45:59Z" name="freshWorksTitleTest" finished-at="2021-09-15T11:45:59Z" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -80,11 +80,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freshWorksTitleTest -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@762ef0ea]" started-at="2021-09-10T17:14:19Z" name="setup" finished-at="2021-09-10T17:14:19Z" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5c671d7f]" started-at="2021-09-15T11:45:59Z" name="setup" finished-at="2021-09-15T11:45:59Z" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="getFooterLinksTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@762ef0ea]" started-at="2021-09-10T17:14:19Z" name="getFooterLinksTest" finished-at="2021-09-10T17:14:19Z" duration-ms="0" status="SKIP">
+        <test-method signature="getFooterLinksTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5c671d7f]" started-at="2021-09-15T11:45:59Z" name="getFooterLinksTest" finished-at="2021-09-15T11:45:59Z" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -119,9 +119,9 @@
         </test-method> <!-- getFooterLinksTest -->
       </class> <!-- com.crm.qa.testcases.FreshWorksTest -->
     </test> <!-- Firefox Test -->
-    <test started-at="2021-09-10T11:43:58Z" name="Chrome Test" finished-at="2021-09-10T11:44:19Z" duration-ms="21441">
+    <test started-at="2021-09-15T06:15:37Z" name="Chrome Test" finished-at="2021-09-15T06:15:59Z" duration-ms="21499">
       <class name="com.crm.qa.testcases.FreshWorksTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5b94b04d]" started-at="2021-09-10T17:13:58Z" name="setup" finished-at="2021-09-10T17:14:19Z" duration-ms="21407" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@1e66f1f5]" started-at="2021-09-15T11:45:37Z" name="setup" finished-at="2021-09-15T11:45:59Z" duration-ms="21485" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -161,7 +161,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="freshWorksTitleTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5b94b04d]" started-at="2021-09-10T17:14:19Z" name="freshWorksTitleTest" finished-at="2021-09-10T17:14:19Z" duration-ms="0" status="SKIP">
+        <test-method signature="freshWorksTitleTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@1e66f1f5]" started-at="2021-09-15T11:45:59Z" name="freshWorksTitleTest" finished-at="2021-09-15T11:45:59Z" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -194,11 +194,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freshWorksTitleTest -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5b94b04d]" started-at="2021-09-10T17:14:19Z" name="setup" finished-at="2021-09-10T17:14:19Z" duration-ms="0" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="getFooterLinksTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@5b94b04d]" started-at="2021-09-10T17:14:19Z" name="getFooterLinksTest" finished-at="2021-09-10T17:14:19Z" duration-ms="0" status="SKIP">
+        <test-method signature="getFooterLinksTest()[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@1e66f1f5]" started-at="2021-09-15T11:45:59Z" name="getFooterLinksTest" finished-at="2021-09-15T11:45:59Z" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException
@@ -231,6 +227,10 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getFooterLinksTest -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.crm.qa.testcases.FreshWorksTest@1e66f1f5]" started-at="2021-09-15T11:45:59Z" name="setup" finished-at="2021-09-15T11:45:59Z" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
       </class> <!-- com.crm.qa.testcases.FreshWorksTest -->
     </test> <!-- Chrome Test -->
   </suite> <!-- FREE CRM Application Test Automation Test Suite -->

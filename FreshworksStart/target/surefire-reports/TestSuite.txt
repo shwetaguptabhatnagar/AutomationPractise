@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 6, Time elapsed: 22.029 s <<< FAILURE! - in TestSuite
+com.crm.qa.testcases.FreshWorksTest.setup[firefox](0)  Time elapsed: 21.938 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.crm.qa.testcases.FreshWorksTest.setup(FreshWorksTest.java:64)
+
+com.crm.qa.testcases.FreshWorksTest.setup[chrome](0)  Time elapsed: 21.958 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.crm.qa.testcases.FreshWorksTest.setup(FreshWorksTest.java:64)
+
